@@ -3,7 +3,7 @@
 
 A deep learning neural net model to detect drone/drones from a given picture using Using Fast R-CNN architecture via Keras-Retinanet Implementation. (Dataset and Pre-Trained model provided) 
 
-Live at: http://dronacharya.slapbot.ml/
+Live at: http://dronacharya.slapbot.me/
 
 - [Motivation](#motivation)
 - [Features](#features)
