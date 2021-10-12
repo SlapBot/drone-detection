@@ -23,7 +23,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 numpy==1.17.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 Pillow==6.1.0
 protobuf==3.9.1
 pyparsing==2.4.2
