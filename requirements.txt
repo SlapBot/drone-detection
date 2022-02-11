@@ -25,7 +25,7 @@ matplotlib==3.0.3
 numpy==1.17.0
 opencv-python==4.1.0.25
 Pillow==6.1.0
-protobuf==3.9.1
+protobuf==3.15.0
 pyparsing==2.4.2
 python-dateutil==2.8.0
 PyYAML==5.1.2
